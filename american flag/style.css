@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+    margin: 0;
+}
+.flag {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    height: 400px;
+    position: relative;
+}
+.red {
+    height: 21px;
+    background-color: red;
+}
+.white {
+    height: 21px;
+    background-color: white;
+}
+img {
+    height: 160px;
+    width: 300px;
+    position: absolute;
+}

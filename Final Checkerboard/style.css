@@ -1,0 +1,29 @@
+.table {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 100px;
+      
+}
+
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.white {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+.row {
+    height: 100px;
+    width: 100px;
+}
+
+td {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+
+}
